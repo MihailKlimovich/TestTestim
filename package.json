@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@testim/testim-cli": "^3.241.0"
+  }
+}
